@@ -1,0 +1,21 @@
+{
+       "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/keishyo/teko/main/lg.png",
+        "location": "Iowa, USA",
+        "social": {
+            "twitter_handle": "HDuyLong3",
+            "telegram_handle": "keishyo",
+            "github_handle": "keishyo"
+        },
+        "about": {
+            "me": "Save the Ocean",
+            "server": "GCP Block Producer USA + GCP Relay USA + Relay GER (Cloud) | HW configuration of servers <CPU:4core|RAM:16G|SSD:200G"
+    },
+    "my-pool-ids": {
+        "0": "d058aaaeea58887b79ecb57708d1694bd323276a6b54185bd86415e7"
+    },
+    "when-satured-then-recommend": {
+        "0": "Single Pool Operator - Support decentralization"
+    }
+}
+}
