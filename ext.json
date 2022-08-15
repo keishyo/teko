@@ -1,4 +1,5 @@
 {
+       "verification":"69fa959f74739a69ee",
        "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/keishyo/teko/main/lg.png",
         "location": "Iowa, USA",
@@ -16,7 +17,6 @@
     },
     "when-satured-then-recommend": {
         "0": "Single Pool Operator - Support decentralization"
-    },
-    "verification":"verification-string-here-for-pool-claim"
+    }
 }
 }
