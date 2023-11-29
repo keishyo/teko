@@ -1,0 +1,21 @@
+{
+        "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/keishyo/teko/main/nlg.png",
+        "location": "Iowa, USA",
+        "social": {
+            "twitter_handle": "HDuyLong3",
+            "telegram_handle": "keishyo",
+            "github_handle": "keishyo"
+        },
+        "about": {
+            "me": "Thank you for staking with TEKO! Your support is very much appreciated. We want to be part of Web3 future without destroying environment.",
+            "server": "We are running all Cardano Nodes with low CO2 - Green Energy. Servers are proactively monitored and backed up daily."
+    },
+    "my-pool-ids": {
+        "0": "49425909ac068ed17ca9d418e7c20ac9c7e12569839045fc2a47846c"
+    },
+    "when-satured-then-recommend": {
+        "0": "Single Pool Operator - Support decentralization"
+    }
+}
+}
