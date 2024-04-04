@@ -1,0 +1,21 @@
+{
+        "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/keishyo/teko/main/dano.png",
+        "location": "Iowa, USA",
+        "social": {
+            "twitter_handle": "HDuyLong3",
+            "telegram_handle": "keishyo",
+            "github_handle": "keishyo"
+        },
+        "about": {
+            "me": "Thank you for staking with TEMPO! Your support is very much appreciated. We want to be part of Web3 future without destroying environment.",
+            "server": "We are running all Cardano Nodes with low CO2 - Green Energy. Servers are proactively monitored and backed up daily."
+    },
+    "my-pool-ids": {
+        "0": "664e3da55860e80ed3bd35bd1c5578f29cc06ff3924a5218647710a4"
+    },
+    "when-satured-then-recommend": {
+        "0": "Single Pool Operator - Support decentralization"
+    }
+}
+}
